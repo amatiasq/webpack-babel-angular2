@@ -1,5 +1,5 @@
 {
-  "extends": "./.eslintrc.precommit.json",
+  "extends": "../.eslintrc.precommit.json",
 
   "rules": {
     "no-console": "off",
