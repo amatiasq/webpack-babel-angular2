@@ -1,0 +1,9 @@
+{
+  "extends": "./.eslintrc.precommit.json",
+
+  "rules": {
+    "no-console": "off",
+    "no-debugger": "off",
+    "no-empty": "warn"
+  }
+}
